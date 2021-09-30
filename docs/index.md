@@ -29,25 +29,34 @@ Our instant messaging platform is free to use - allowing you to securely send an
 
 
 <figure>
-  <img src="https://photos.app.goo.gl/yJNrREH3GC9r1tBSA" width="100" />
+  <img src="./images/first.png" width="300" />
 </figure>
 
 <p style= "font-family: verdana">Step2: Search-----  search the app you want(Ayoba) and they will be along list choose the app you want (Ayoba)</p>
 
 <figure>
-  <img src="./images/first.jpg" width="300" />
+  <img src="./images/second.png" width="300" />
 </figure>
+
+
 
 <p style= "font-family: verdana">Step3: Listen to the video or see pictures to look how the apps work/look like</p>
 
 <figure>
-  <img src="./images/first.jpg" width="300" />
+  <img src="./images/third.png" width="300" />
 </figure>
 
 <p style= "font-family: verdana">Step4: Click on the install button and wait for it to install</p>
 
 <figure>
-  <img src="./images/first.jpg" width="300" />
+  <img src="./images/forth.png" width="300" />
 </figure>
 
 <p style= "font-family: verdana">Step 5: You can open Ayoba or check in the phone apps and start using Ayoba for free </p>
+<figure>
+  <img src="./images/five.png" width="300" />
+</figure>
+
+<figure>
+  <img src="./images/sisxth.jpg" width="300" />
+</figure>
